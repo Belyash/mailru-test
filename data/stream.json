@@ -127,6 +127,11 @@
             {
                 "object": "text",
                 "content": "Ученые выяснили причину «зомбированного» состояния некоторых жителей США\n\nПодробнее:"
+            },
+            {
+                "object": "link",
+                "text": "naked-science.ru",
+                "url": "https://naked-science.ru/article/hi-tech/kompyuternoe-zrenie-pomoglo"
             }
         ],
         "author": {
@@ -450,6 +455,11 @@
             {
                 "object": "text",
                 "content": "Компьютерное зрение помогло разблокировать Android за пять попыток\n\nПодробнее:"
+            },
+            {
+                "object": "link",
+                "text": "naked-science.ru",
+                "url": "https://naked-science.ru/article/hi-tech/kompyuternoe-zrenie-pomoglo"
             }
         ],
         "author": {
@@ -648,6 +658,11 @@
             {
                 "object": "text",
                 "content": "Россиянин придумал уникальный космический корабль, которому не нужна ракета-носитель\n\nПодробнее:"
+            },
+            {
+                "object": "link",
+                "text": "naked-science.ru",
+                "url": "https://naked-science.ru/article/hi-tech/kompyuternoe-zrenie-pomoglo"
             }
         ],
         "author": {
