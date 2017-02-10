@@ -9,13 +9,37 @@
         "id": "e0010000eebf0004",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-16.avt.mail.ru/corp/kolosovskyi/_avatar?1402866145",
+            "pic": "http://avt-16.foto.mail.ru/corp/kolosovskyi/_avatar?1402866145",
             "nick": "r4",
             "first_name": "Иван",
             "last_name": "К123",
             "uid": "3326310110664231168",
             "dir": "/corp/kolosovskyi/"
-        }
+        },
+        "attachments": [{
+            "object": "app",
+            "content": {
+                "ID": 259032,
+                "ShortName": "Буркозел",
+                "Genre": [{
+                    "name": "Азартные",
+                    "id": "social-casino-games",
+                    "admin_genre": 0
+                }],
+                "Installations": 249463,
+                "Name": "Буркозел",
+                "Description": "Буркозел или Бура – карточная игра, в которой надо выкладывать комбинации из карт и получать очки. Первый набравший 31 очко становится победителем. Играйте в Буркозел с друзьями!",
+                "Pictures": {
+                    "BigPic": "http://content-30.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6840.jpg",
+                    "MobPic": "http://content-6.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6836.jpg",
+                    "Pic": "http://content-16.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6830.jpg",
+                    "Pic2": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6835.jpg",
+                    "Pic3": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6844.jpg",
+                    "Pic4": "http://content-20.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6842.jpg",
+                    "Pic5": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6837.jpg"
+                }
+            }
+        }]
     },
     {
         "type_name": "app_add",
@@ -27,13 +51,37 @@
         "id": "2d1f0000fdab9801",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-3.avt.mail.ru/corp/akazakov/_avatar?1446046592",
+            "pic": "http://avt-3.foto.mail.ru/corp/akazakov/_avatar?1446046592",
             "nick": "'−alert(1)−'",
             "first_name": "Александр",
             "last_name": "Казаков",
             "uid": "2018549434275144210",
             "dir": "/corp/akazakov/"
-        }
+        },
+        "attachments": [{
+            "object": "app",
+            "content": {
+                "ID": 259032,
+                "ShortName": "Буркозел",
+                "Genre": [{
+                    "name": "Азартные",
+                    "id": "social-casino-games",
+                    "admin_genre": 0
+                }],
+                "Installations": 249463,
+                "Name": "Буркозел",
+                "Description": "Буркозел или Бура – карточная игра, в которой надо выкладывать комбинации из карт и получать очки. Первый набравший 31 очко становится победителем. Играйте в Буркозел с друзьями!",
+                "Pictures": {
+                    "BigPic": "http://content-30.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6840.jpg",
+                    "MobPic": "http://content-6.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6836.jpg",
+                    "Pic": "http://content-16.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6830.jpg",
+                    "Pic2": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6835.jpg",
+                    "Pic3": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6844.jpg",
+                    "Pic4": "http://content-20.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6842.jpg",
+                    "Pic5": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6837.jpg"
+                }
+            }
+        }]
     },
     {
         "time": 1485424528,
@@ -68,7 +116,7 @@
         "type": "5-26",
         "is_likeable": 1,
         "author": {
-            "pic": "http://avt-24.avt.mail.ru/corp/k.sharapova/_avatar?1477486872",
+            "pic": "http://avt-24.foto.mail.ru/corp/k.sharapova/_avatar?1477486872",
             "nick": "Ксения Кузина",
             "first_name": "Ксения",
             "last_name": "Кузина",
@@ -99,7 +147,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-10.avt.mail.ru/community/chudotechniki/_avatar?1449829592",
+            "pic": "http://avt-10.foto.mail.ru/community/chudotechniki/_avatar?1449829592",
             "nick": "Чудо техники с Сергеем Малозёмовым",
             "first_name": "",
             "last_name": "",
@@ -135,7 +183,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-7.avt.mail.ru/community/nakedscience/_avatar?1449827889",
+            "pic": "http://avt-7.foto.mail.ru/community/nakedscience/_avatar?1449827889",
             "nick": "Science",
             "first_name": "",
             "last_name": "",
@@ -166,7 +214,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-5.avt.mail.ru/community/vesti.ru/_avatar?1482830289",
+            "pic": "http://avt-5.foto.mail.ru/community/vesti.ru/_avatar?1482830289",
             "nick": "Вести.RU",
             "first_name": "",
             "last_name": "",
@@ -204,7 +252,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-5.avt.mail.ru/community/vesti.ru/_avatar?1482830289",
+            "pic": "http://avt-5.foto.mail.ru/community/vesti.ru/_avatar?1482830289",
             "nick": "Вести.RU",
             "first_name": "",
             "last_name": "",
@@ -223,13 +271,24 @@
         "id": "0c130000c6a7c80a",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-30.avt.mail.ru/mail/andrey-27-27/_avatar?1402105396",
+            "pic": "http://avt-30.foto.mail.ru/mail/andrey-27-27/_avatar?1402105396",
             "nick": "это не я",
             "first_name": "Андрей",
             "last_name": "Новалихин",
             "uid": "4995959367194703752",
             "dir": "/mail/andrey-27-27/"
-        }
+        },
+        "attachments": [{
+            "object": "group",
+            "content": {
+                "nick": "Фитнес подруга",
+                "last_name": "",
+                "link": "https://my.mail.ru/community/women.love/",
+                "uid": "15883103542405329897",
+                "pic": "http://avt-11.foto.mail.ru/community/women.love/_avatar?1478865138",
+                "first_name": ""
+            }
+        }]
     },
     {
         "type_name": "user_community_actions_enter",
@@ -241,13 +300,24 @@
         "id": "c508000022b6c805",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-5.avt.mail.ru/mail/dutch13/_avatar?1405833547",
+            "pic": "http://avt-5.foto.mail.ru/mail/dutch13/_avatar?1405833547",
             "nick": "Dutch13",
             "first_name": "Денис",
             "last_name": "Вебер",
             "uid": "11813725929020699439",
             "dir": "/mail/dutch13/"
-        }
+        },
+        "attachments": [{
+            "object": "group",
+            "content": {
+                "nick": "Фитнес подруга",
+                "last_name": "",
+                "link": "https://my.mail.ru/community/women.love/",
+                "uid": "15883103542405329897",
+                "pic": "http://avt-11.foto.mail.ru/community/women.love/_avatar?1478865138",
+                "first_name": ""
+            }
+        }]
     },
     {
         "thread_id": "2fb319012fb31901db0d000003000000",
@@ -427,7 +497,7 @@
         "id": "c408000022b6c805",
         "comments_count": 0,
         "author": {
-            "pic": "http://avt-5.avt.mail.ru/mail/dutch13/_avatar?1405833547",
+            "pic": "http://avt-5.foto.mail.ru/mail/dutch13/_avatar?1405833547",
             "nick": "Dutch13",
             "first_name": "Денис",
             "last_name": "Вебер",
@@ -463,7 +533,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-7.avt.mail.ru/community/nakedscience/_avatar?1449827889",
+            "pic": "http://avt-7.foto.mail.ru/community/nakedscience/_avatar?1449827889",
             "nick": "Science",
             "first_name": "",
             "last_name": "",
@@ -494,7 +564,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-10.avt.mail.ru/community/chudotechniki/_avatar?1449829592",
+            "pic": "http://avt-10.foto.mail.ru/community/chudotechniki/_avatar?1449829592",
             "nick": "Чудо техники с Сергеем Малозёмовым",
             "first_name": "",
             "last_name": "",
@@ -512,13 +582,24 @@
         "id": "ed060000efa99802",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-18.avt.mail.ru/corp/platonova/_avatar?1485331920",
+            "pic": "http://avt-18.foto.mail.ru/corp/platonova/_avatar?1485331920",
             "nick": "Лена Платонова",
             "first_name": "Лена",
             "last_name": "Платонова",
             "uid": "17031497812190134387",
             "dir": "/corp/platonova/"
-        }
+        },
+        "attachments": [{
+            "object": "avatar",
+            "new": {
+                "click_url": "http://my.mail.ru/mail/testqaqa/photo/_myphoto/3127.html",
+                "src_hires": "http://content-22.foto.my.mail.ru/mail/testqaqa/_myphoto/p-3127.jpg"
+            },
+            "old": {
+                "click_url": "http://my.mail.ru/mail/testqaqa/photo/_myphoto/3124.html",
+                "src_hires": "http://content-20.foto.my.mail.ru/mail/testqaqa/_myphoto/p-3124.jpg"
+            }
+        }]
     },
     {
         "time": 1485289925,
@@ -553,7 +634,7 @@
         "type": "5-26",
         "is_likeable": 1,
         "author": {
-            "pic": "http://avt-21.avt.mail.ru/mail/t_mehedova/_avatar?1484497760",
+            "pic": "http://avt-21.foto.mail.ru/mail/t_mehedova/_avatar?1484497760",
             "nick": "Татьяна Мехедова",
             "first_name": "Tатьяна",
             "last_name": ".",
@@ -594,7 +675,7 @@
         "type": "5-26",
         "is_likeable": 1,
         "author": {
-            "pic": "http://avt-21.avt.mail.ru/mail/t_mehedova/_avatar?1484497760",
+            "pic": "http://avt-21.foto.mail.ru/mail/t_mehedova/_avatar?1484497760",
             "nick": "Татьяна Мехедова",
             "first_name": "Tатьяна",
             "last_name": ".",
@@ -612,13 +693,37 @@
         "id": "320f000009b6d80a",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-28.avt.mail.ru/mail/testqa012/_avatar?1467635251",
+            "pic": "http://avt-28.foto.mail.ru/mail/testqa012/_avatar?1467635251",
             "nick": "Anufriyshsu ysusua Котобарашgajcjajanx",
             "first_name": "Anufriyshsu zuzu",
             "last_name": "Котобарашgajcjajanx",
             "uid": "17561583827597344723",
             "dir": "/mail/testqa012/"
-        }
+        },
+        "attachments": [{
+            "object": "app",
+            "content": {
+                "ID": 259032,
+                "ShortName": "Буркозел",
+                "Genre": [{
+                    "name": "Азартные",
+                    "id": "social-casino-games",
+                    "admin_genre": 0
+                }],
+                "Installations": 249463,
+                "Name": "Буркозел",
+                "Description": "Буркозел или Бура – карточная игра, в которой надо выкладывать комбинации из карт и получать очки. Первый набравший 31 очко становится победителем. Играйте в Буркозел с друзьями!",
+                "Pictures": {
+                    "BigPic": "http://content-30.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6840.jpg",
+                    "MobPic": "http://content-6.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6836.jpg",
+                    "Pic": "http://content-16.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6830.jpg",
+                    "Pic2": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6835.jpg",
+                    "Pic3": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6844.jpg",
+                    "Pic4": "http://content-20.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6842.jpg",
+                    "Pic5": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6837.jpg"
+                }
+            }
+        }]
     },
     {
         "type_name": "gift_received",
@@ -630,13 +735,42 @@
         "id": "02130000329c4802",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-21.avt.mail.ru/corp/e.andreeva/_avatar?1470318969",
+            "pic": "http://avt-21.foto.mail.ru/corp/e.andreeva/_avatar?1470318969",
             "nick": "mollisss",
             "first_name": "Елена",
             "last_name": "Андреева",
             "uid": "5259102968181301735",
             "dir": "/corp/e.andreeva/"
-        }
+        },
+        "attachments": [{
+            "object": "gift",
+            "content": {
+                "is_private": 0,
+                "click_url": "https://my.mail.ru/corp/d.kukartsev/gifts?id=685561B3BC38F696",
+                "is_anonymous": 0,
+                "time": 1474619555,
+                "is_read": 1,
+                "gift": {
+                    "name": "Сверкающее кольцо",
+                    "file_type": "https://my1.imgsmail.ru/r/my/gifts/payed/ring200.gif",
+                    "preview": "https://my1.imgsmail.ru/r/my/gifts/payed/ring70.gif",
+                    "id": "1122"
+                },
+                "from": {
+                    "nick": "zz'",
+                    "is_online": 0,
+                    "last_visit": "1486650265",
+                    "uid": "3448739687245155741",
+                    "age": 21,
+                    "last_name": "xx'",
+                    "link": "https://my.mail.ru/mail/x22x23zz8/",
+                    "sex": 0,
+                    "pic": "http://avt-30.foto.mail.ru/mail/x22x23zz8/_avatar?1421927673",
+                    "first_name": "22222",
+                },
+                "text": "Этот подарок я принёс тебе в ночи."
+            }
+        }]
     },
     {
         "time": 1485253757,
@@ -666,7 +800,7 @@
             }
         ],
         "author": {
-            "pic": "http://avt-7.avt.mail.ru/community/nakedscience/_avatar?1449827889",
+            "pic": "http://avt-7.foto.mail.ru/community/nakedscience/_avatar?1449827889",
             "nick": "Science",
             "first_name": "",
             "last_name": "",
@@ -684,12 +818,36 @@
         "id": "2d0f000009b6d80a",
         "is_likeable": 0,
         "author": {
-            "pic": "http://avt-28.avt.mail.ru/mail/testqa012/_avatar?1467635251",
+            "pic": "http://avt-28.foto.mail.ru/mail/testqa012/_avatar?1467635251",
             "nick": "Anufriyshsu ysusua Котобарашgajcjajanx",
             "first_name": "Anufriyshsu zuzu",
             "last_name": "Котобарашgajcjajanx",
             "uid": "17561583827597344723",
             "dir": "/mail/testqa012/"
-        }
+        },
+        "attachments": [{
+            "object": "app",
+            "content": {
+                "ID": 259032,
+                "ShortName": "Буркозел",
+                "Genre": [{
+                    "name": "Азартные",
+                    "id": "social-casino-games",
+                    "admin_genre": 0
+                }],
+                "Installations": 249463,
+                "Name": "Буркозел",
+                "Description": "Буркозел или Бура – карточная игра, в которой надо выкладывать комбинации из карт и получать очки. Первый набравший 31 очко становится победителем. Играйте в Буркозел с друзьями!",
+                "Pictures": {
+                    "BigPic": "http://content-30.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6840.jpg",
+                    "MobPic": "http://content-6.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6836.jpg",
+                    "Pic": "http://content-16.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6830.jpg",
+                    "Pic2": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6835.jpg",
+                    "Pic3": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6844.jpg",
+                    "Pic4": "http://content-20.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6842.jpg",
+                    "Pic5": "http://content-12.foto.my.mail.ru/corp/app-pic-history/_myapps/s-6837.jpg"
+                }
+            }
+        }]
     }
 ]
