@@ -46,6 +46,5 @@
 ## Дизайн
 Интерфейс должен максимально быть похожим на то, что на картинке. Оригинал картинки в масштабе x2. 
 
-![Лента событий](/screens/feed.jpg?raw=true)
- 
+<img src="https://github.com/Belyash/mailru-test/raw/master/screens/feed.jpg?raw=true" alt="Лента событий" width="360"/> 
  
