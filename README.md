@@ -44,7 +44,12 @@
 - **attachments** - массив приложений к событию. Может содержать картинки(image) и ссылки(link) 
 
 ## Дизайн
-Интерфейс должен максимально быть похожим на то, что на картинке. Оригинал картинки в масштабе x2. 
+Интерфейс должен максимально быть похожим на то, что на картинках. 
+Оригиналы в масштабе x2. 
 
-<img src="https://github.com/Belyash/mailru-test/raw/master/screens/feed.jpg?raw=true" alt="Лента событий" width="360"/> 
+### Лента
+<img src="https://github.com/Belyash/mailru-test/raw/master/screens/feed.jpg?raw=true" alt="Лента событий" width="360"/>
+
+### Страница события
+<img src="https://github.com/Belyash/mailru-test/raw/master/screens/feed-post.png?raw=true" alt="Лента событий" width="360"/>
  
